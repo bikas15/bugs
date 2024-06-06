@@ -1,0 +1,16 @@
+// src/components/Navbar.js
+import styled from 'styled-components';
+
+const Nav = styled.nav`
+  /* Your styling rules here */
+`;
+
+function Navbar() {
+  return (
+    <Nav>
+      {/* Your navigation links */}
+    </Nav>
+  );
+}
+
+export default Navbar;
